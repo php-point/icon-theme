@@ -1,0 +1,167 @@
+{
+	"iconDefinitions": {
+		"_file": {
+			"iconPath": "../icons/file.png"
+		},
+		"_folder": {
+			"iconPath": "../icons/folder.png"
+		},
+		"_folder_open": {
+			"iconPath": "../icons/open-folder.png"
+		},
+		"js": {
+			"iconPath": "../icons/js1.png"
+		},
+		"php": {
+			"iconPath": "../icons/php3.png"
+		},
+		"py": {
+			"iconPath": "../icons/python.png"
+		},
+		"json": {
+			"iconPath": "../icons/json2.png"
+		},
+		"html": {
+			"iconPath": "../icons/html4.png"
+		},
+		"css": {
+			"iconPath": "../icons/css2.png"
+		},
+		"cs": {
+			"iconPath": "../icons/c#.png"
+		},
+		"lock": {
+			"iconPath": "../icons/lock.png"
+		},
+		"java": {
+			"iconPath": "../icons/java.png"
+		},
+		"md": {
+			"iconPath": "../icons/i.png"
+		},
+		"pdf": {
+			"iconPath": "../icons/pdf.png"
+		},
+		"txt": {
+			"iconPath": "../icons/txt.png"
+		},
+		"doc": {
+			"iconPath": "../icons/doc.png"
+		},
+		"docx": {
+			"iconPath": "../icons/docx.png"
+		},
+		"xls": {
+			"iconPath": "../icons/xls.png"
+		},
+		"xlsx": {
+			"iconPath": "../icons/xlsx.png"
+		},
+		"csv": {
+			"iconPath": "../icons/csv.png"
+		},
+		"zip": {
+			"iconPath": "../icons/zip.png"
+		},
+		"rar": {
+			"iconPath": "../icons/rar.png"
+		},
+		"mp3": {
+			"iconPath": "../icons/mp3.png"
+		},
+		"mp4": {
+			"iconPath": "../icons/mp4.png"
+		},
+		"avi": {
+			"iconPath": "../icons/avi.png"
+		},
+		"mov": {
+			"iconPath": "../icons/mov.png"
+		},
+		"xml": {
+			"iconPath": "../icons/xml.png"
+		},
+		"exe": {
+			"iconPath": "../icons/exe.png"
+		},
+		"iso": {
+			"iconPath": "../icons/iso.png"
+		},
+		"htaccess": {
+			"iconPath": "../icons/htaccess.png"
+		},
+		"png": {
+			"iconPath": "../icons/png1.png"
+		},
+		"jpg": {
+			"iconPath": "../icons/jpg1.png"
+		},
+		"ts": {
+			"iconPath": "../icons/ts1.png"
+		},
+	},
+	"file": "_file",
+	"folder": "_folder",
+	"folderExpanded": "_folder_open",
+	"fileExtensions": {
+		"js": "js",
+		"php": "php",
+		"md": "md",
+		"py": "py",
+		"pdf": "pdf",
+		"java": "java",
+		"json": "json",
+		"html": "html",
+		"css": "css",
+		"cs": "cs",
+		"lock": "lock",
+		"jpeg": "jpeg",
+		"gif": "gif",
+		"bmp": "bmp",
+		"svg": "svg",
+		"webp": "webp",
+		"txt": "txt",
+		"csv": "csv",
+		"doc": "doc",
+		"docx": "docx",
+		"xls": "xls",
+		"xlsx": "xlsx",
+		"ppt": "ppt",
+		"pptx": "pptx",
+		"zip": "zip",
+		"rar": "rar",
+		"7z": "7z",
+		"tar": "tar",
+		"gz": "gz",
+		"mp3": "mp3",
+		"wav": "wav",
+		"aac": "aac",
+		"ogg": "ogg",
+		"flac": "flac",
+		"mp4": "mp4",
+		"avi": "avi",
+		"mov": "mov",
+		"wmv": "wmv",
+		"mkv": "mkv",
+		"mvi": "mvi",
+		"flv": "flv",
+		"ts": "ts",
+		"xml": "xml",
+		"yaml": "yaml",
+		"yml": "yml",
+		"sql": "sql",
+		"sh": "sh",
+		"bat": "bat",
+		"exe": "exe",
+		"msi": "msi",
+		"dll": "dll",
+		"iso": "iso",
+		"bin": "bin",
+		"htaccess": "htaccess",
+		"png": "png",
+		"jpg": "jpg",
+	},
+	"fileNames": {
+		"package.json": "json"
+	}
+}

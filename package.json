@@ -1,0 +1,29 @@
+{
+  "name": "icon-theme",
+  "displayName": "PHP Point Icon Theme",
+  "description": "A custom icon theme for VS Code with web development focus",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "keywords": ["icons", "theme", "php"],
+  "galleryBanner": {
+    "color": "#5c2d91",
+    "theme": "dark"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "php-point-icon-theme",
+        "label": "PHP Point Icon Theme",
+        "path": "./themes/icon-theme.json"
+      }
+    ]
+  }
+}
