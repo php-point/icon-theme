@@ -2,10 +2,10 @@
   "name": "icon-theme",
   "displayName": "PHP Point Icon Theme",
   "description": "A custom icon theme for VS Code with web development focus",
-  "version": "0.0.1",
+  "version": "1.1.425",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/php-point/icon-theme.git"
   },
   "icon": "icon.png",
   "engines": {

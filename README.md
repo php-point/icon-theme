@@ -3,7 +3,7 @@
 
 The File Extension Icon Theme extension brings a fresh and professional look to your editor by assigning unique icons to different file types. Whether you're working with programming languages, config files, or project assets, this theme improves visibility and organization in your workspace.
 
-🔥 Features
+## 🔥 Features
 - Custom Icons for Popular File Extensions – Supports HTML, CSS, JS, PHP, Python, JSON, and more!
 - Beautiful & Clean Design – Aesthetic and easy-to-distinguish icons.
 - Supports Dark & Light Themes – Works seamlessly with any VS Code theme.
@@ -12,3 +12,11 @@ The File Extension Icon Theme extension brings a fresh and professional look to 
 
 ## Screenshots 
 ![Screenshot](Screenshot.png)
+
+## How to use
+- just install and set icon theme.
+
+## Release notes
+
+### 1.1.425
+- Initial release
