@@ -19,10 +19,10 @@
 			"iconPath": "../icons/python.png"
 		},
 		"json": {
-			"iconPath": "../icons/json2.png"
+			"iconPath": "../icons/json.png"
 		},
 		"html": {
-			"iconPath": "../icons/html4.png"
+			"iconPath": "../icons/html.png"
 		},
 		"css": {
 			"iconPath": "../icons/css2.png"
@@ -31,10 +31,10 @@
 			"iconPath": "../icons/c#.png"
 		},
 		"lock": {
-			"iconPath": "../icons/lock.png"
+			"iconPath": "../icons/json.png"
 		},
 		"java": {
-			"iconPath": "../icons/java.png"
+			"iconPath": "../icons/java2.png"
 		},
 		"md": {
 			"iconPath": "../icons/i.png"
@@ -88,7 +88,7 @@
 			"iconPath": "../icons/iso.png"
 		},
 		"htaccess": {
-			"iconPath": "../icons/htaccess.png"
+			"iconPath": "../icons/settings.png"
 		},
 		"png": {
 			"iconPath": "../icons/png1.png"
@@ -99,12 +99,29 @@
 		"ts": {
 			"iconPath": "../icons/ts1.png"
 		},
+		"jsx": {
+			"iconPath": "../icons/reactjs1.png"
+		},
+		"vsix": {
+			"iconPath": "../icons/package.png"
+		},
+		"vscodeignore":{
+			"iconPath": "../icons/vs.png"
+		},
+		"changelog_icon": {
+            "iconPath": "../icons/changelog.png",
+        },
+		"LICENSE":{
+			"iconPath": "../icons/license.png"
+		}
 	},
 	"file": "_file",
 	"folder": "_folder",
 	"folderExpanded": "_folder_open",
 	"fileExtensions": {
 		"js": "js",
+		"jsx": "jsx",
+		"vsix": "vsix",
 		"php": "php",
 		"md": "md",
 		"py": "py",
@@ -162,6 +179,9 @@
 		"jpg": "jpg",
 	},
 	"fileNames": {
-		"package.json": "json"
+		"package.json": "json",
+		"CHANGELOG.md": "changelog_icon",
+        ".vscodeignore": "vscodeignore",
+		"LICENSE":"LICENSE"
 	}
 }
