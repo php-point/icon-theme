@@ -18,5 +18,13 @@ The File Extension Icon Theme extension brings a fresh and professional look to 
 
 ## Release notes
 
+### 1.5.425
+- add new animated icons and bug  fixed.
+### 1.4.425
+- add new icons and bug  fixed.
+### 1.3.425
+- add new icons and bug  fixed.
+### 1.2.425
+- add new icons and bug  fixed.
 ### 1.1.425
 - Initial release

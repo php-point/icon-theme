@@ -10,7 +10,7 @@
 			"iconPath": "../icons/open-folder.png"
 		},
 		"js": {
-			"iconPath": "../icons/js1.png"
+			"iconPath": "../icons/js.gif"
 		},
 		"php": {
 			"iconPath": "../icons/php3.png"
@@ -18,14 +18,20 @@
 		"py": {
 			"iconPath": "../icons/python.png"
 		},
+		"scss": {
+			"iconPath": "../icons/scss.png"
+		},
+		"svg": {
+			"iconPath": "../icons/png1.png"
+		},
 		"json": {
 			"iconPath": "../icons/json.png"
 		},
 		"html": {
-			"iconPath": "../icons/html.png"
+			"iconPath": "../icons/html1.gif"
 		},
 		"css": {
-			"iconPath": "../icons/css2.png"
+			"iconPath": "../icons/css2.gif"
 		},
 		"cs": {
 			"iconPath": "../icons/c#.png"
@@ -34,7 +40,7 @@
 			"iconPath": "../icons/json.png"
 		},
 		"java": {
-			"iconPath": "../icons/java2.png"
+			"iconPath": "../icons/java.gif"
 		},
 		"md": {
 			"iconPath": "../icons/i.png"
@@ -46,7 +52,7 @@
 			"iconPath": "../icons/txt.png"
 		},
 		"doc": {
-			"iconPath": "../icons/doc.png"
+			"iconPath": "../icons/word.svg"
 		},
 		"docx": {
 			"iconPath": "../icons/docx.png"
@@ -97,10 +103,10 @@
 			"iconPath": "../icons/jpg1.png"
 		},
 		"ts": {
-			"iconPath": "../icons/ts1.png"
+			"iconPath": "../icons/ts.svg"
 		},
 		"jsx": {
-			"iconPath": "../icons/reactjs1.png"
+			"iconPath": "../icons/react.svg"
 		},
 		"vsix": {
 			"iconPath": "../icons/package.png"
@@ -113,7 +119,34 @@
         },
 		"LICENSE":{
 			"iconPath": "../icons/license.png"
-		}
+		},
+		"gitignore":{
+			"iconPath": "../icons/git1.svg"
+		},
+		"vite": {
+			"iconPath": "../icons/vite.svg"
+		},
+		"phppoint": {
+			"iconPath": "../icons/phppoint.png"
+		},
+		"home": {
+			"iconPath": "../icons/home.svg"
+		},
+		"cssf": {
+			"iconPath": "../icons/cssf.svg"
+		},
+		"jsf": {
+			"iconPath": "../icons/jsf.png"
+		},
+		"jsfexd": {
+			"iconPath": "../icons/jsf.svg"
+		},
+		"imagef": {
+			"iconPath": "../icons/picture.png"
+		},
+		"imagefexp": {
+			"iconPath": "../icons/image.png"
+		},
 	},
 	"file": "_file",
 	"folder": "_folder",
@@ -123,6 +156,7 @@
 		"jsx": "jsx",
 		"vsix": "vsix",
 		"php": "php",
+		"scss": "scss",
 		"md": "md",
 		"py": "py",
 		"pdf": "pdf",
@@ -182,6 +216,22 @@
 		"package.json": "json",
 		"CHANGELOG.md": "changelog_icon",
         ".vscodeignore": "vscodeignore",
-		"LICENSE":"LICENSE"
+        ".gitignore": "gitignore",
+		"LICENSE":"LICENSE",
+		"home":"home",
+		"vite.config.js":"vite",
+	},
+	"folderNames": {
+		"home":"home",
+		"css":"cssf",
+		"images":"imagef",
+		"js":"jsf",
+		"phppoint":"phppoint"
+	},"folderNamesExpanded": {
+		"home":"home",
+		"css":"cssf",
+		"images":"imagefexp",
+		"js":"jsfexd",
+		"phppoint":"phppoint"
 	}
 }
