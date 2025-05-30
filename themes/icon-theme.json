@@ -111,16 +111,16 @@
 		"vsix": {
 			"iconPath": "../icons/package.png"
 		},
-		"vscodeignore":{
+		"vscodeignore": {
 			"iconPath": "../icons/vs.png"
 		},
 		"changelog_icon": {
-            "iconPath": "../icons/changelog.png",
-        },
-		"LICENSE":{
+			"iconPath": "../icons/changelog.png",
+		},
+		"LICENSE": {
 			"iconPath": "../icons/license.png"
 		},
-		"gitignore":{
+		"gitignore": {
 			"iconPath": "../icons/git1.svg"
 		},
 		"vite": {
@@ -147,13 +147,47 @@
 		"imagefexp": {
 			"iconPath": "../icons/image.png"
 		},
+		"_blade": {
+			"iconPath": "../icons/laravel.gif"
+		},
+		"env":{
+			"iconPath": "../icons/env.png"
+		},
+		"envExample":{
+			"iconPath": "../icons/envExample.png"
+		},
+		"gitattr":{
+			"iconPath": "../icons/gitattr1.png"
+		},
+		"editorconfig":{
+			"iconPath": "../icons/editorconfig.png"
+		},
+		"artisan":{
+			"iconPath": "../icons/artisan3.png"
+		},
+		"postcss":{
+			"iconPath": "../icons/postcss.png"
+		},
+		"tailwind":{
+			"iconPath": "../icons/tailwind.png"
+		},
+		"vue":{
+			"iconPath": "../icons/vue.svg"
+		},
+		"tsx": {
+			"iconPath": "../icons/tsx.png"
+		},
+		
 	},
 	"file": "_file",
 	"folder": "_folder",
 	"folderExpanded": "_folder_open",
 	"fileExtensions": {
+		"env":"env",
+		"blade.php": "_blade",
 		"js": "js",
 		"jsx": "jsx",
+		"tsx": "tsx",
 		"vsix": "vsix",
 		"php": "php",
 		"scss": "scss",
@@ -211,27 +245,35 @@
 		"htaccess": "htaccess",
 		"png": "png",
 		"jpg": "jpg",
+		"vue": "vue",
 	},
 	"fileNames": {
 		"package.json": "json",
 		"CHANGELOG.md": "changelog_icon",
-        ".vscodeignore": "vscodeignore",
-        ".gitignore": "gitignore",
-		"LICENSE":"LICENSE",
-		"home":"home",
-		"vite.config.js":"vite",
+		".vscodeignore": "vscodeignore",
+		".gitignore": "gitignore",
+		"LICENSE": "LICENSE",
+		"home": "home",
+		"vite.config.js": "vite",
+		".env.example":"envExample",
+		".gitattributes":"gitattr",
+		".editorconfig":"editorconfig",
+		"artisan":"artisan",
+		"postcss.config.js":"postcss",
+		"tailwind.config.js":"tailwind",
 	},
 	"folderNames": {
-		"home":"home",
-		"css":"cssf",
-		"images":"imagef",
-		"js":"jsf",
-		"phppoint":"phppoint"
-	},"folderNamesExpanded": {
-		"home":"home",
-		"css":"cssf",
-		"images":"imagefexp",
-		"js":"jsfexd",
-		"phppoint":"phppoint"
+		"home": "home",
+		"css": "cssf",
+		"images": "imagef",
+		"js": "jsf",
+		"phppoint": "phppoint"
+	},
+	"folderNamesExpanded": {
+		"home": "home",
+		"css": "cssf",
+		"images": "imagefexp",
+		"js": "jsfexd",
+		"phppoint": "phppoint"
 	}
 }
